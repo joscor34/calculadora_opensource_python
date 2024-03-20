@@ -1,7 +1,8 @@
 from funciones_calculadora import sumar_n_numeros
 from funciones_calculadora import multiplicacion_n_numeros
 from funciones_calculadora import division_2_numeros
-
+import matplotlib.pyplot as plt
+import numpy as np
 
 while True:
   print('''

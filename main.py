@@ -36,5 +36,6 @@ while True:
   else:
     print('Ejecuta una opción válida :(')
 
-  
+
+print('-------------------------------------------')
 print('Bye, gracias por usar mi calculadora')

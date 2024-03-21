@@ -27,3 +27,13 @@ def division_2_numeros():
     return None
   
   return numerador/denominador
+
+# y = mx + b
+def resolver_para_y():
+  pendiente = float(input('Por favor ingresa la pendiente: '))
+  ordenada_al_origen = float(input('Por favor ingresa la ordenada al origen: '))
+  punto_en_x = int(input('Ingrese un punto en x'))
+
+
+  return (pendiente * punto_en_x) + ordenada_al_origen
+
